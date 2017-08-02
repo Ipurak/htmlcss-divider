@@ -1,0 +1,15 @@
+{
+  "name": "htmlcss-divider",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
